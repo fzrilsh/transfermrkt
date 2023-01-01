@@ -16,7 +16,7 @@ Scrape top transfer and query fotball club in world
 Install using:
 
 ```shell
-npm install string-similarity --save
+npm install transfermrkt --save
 ```
 
 Get top transfer:

@@ -1,0 +1,21 @@
+{
+  "name": "transfermarkt",
+  "version": "0.0.1",
+  "description": "Scrape top transfer and query fotball club in world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape",
+    "football",
+    "transfermarkt",
+    "transfermarket",
+    "world cup"
+  ],
+  "author": "Fazril Syaveral Hillaby <npm@fzrilsh>",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.3"
+  }
+}

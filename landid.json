@@ -1,0 +1,494 @@
+[
+    {
+        "id": "",
+        "name": "Semua warga negara"
+    },
+    {
+        "id": "1",
+        "name": "Afghanistan"
+    },
+    {
+        "id": "3",
+        "name": "Albania"
+    },
+    {
+        "id": "5",
+        "name": "Andorra"
+    },
+    {
+        "id": "7",
+        "name": "Antigua and Barbuda"
+    },
+    {
+        "id": "227",
+        "name": "Antilles Belanda"
+    },
+    {
+        "id": "9",
+        "name": "Argentina"
+    },
+    {
+        "id": "127",
+        "name": "Austria"
+    },
+    {
+        "id": "13",
+        "name": "Azerbaijan"
+    },
+    {
+        "id": "14",
+        "name": "Bahamas"
+    },
+    {
+        "id": "16",
+        "name": "Bangladesh"
+    },
+    {
+        "id": "17",
+        "name": "Barbados"
+    },
+    {
+        "id": "122",
+        "name": "Belanda"
+    },
+    {
+        "id": "18",
+        "name": "Belarus"
+    },
+    {
+        "id": "19",
+        "name": "Belgia"
+    },
+    {
+        "id": "20",
+        "name": "Belize"
+    },
+    {
+        "id": "23",
+        "name": "Bolivia"
+    },
+    {
+        "id": "24",
+        "name": "Bosnia-Herzegovina"
+    },
+    {
+        "id": "28",
+        "name": "Bulgaria"
+    },
+    {
+        "id": "29",
+        "name": "Burkina Faso"
+    },
+    {
+        "id": "171",
+        "name": "Chad"
+    },
+    {
+        "id": "164",
+        "name": "Chinese Taipei"
+    },
+    {
+        "id": "238",
+        "name": "Cookinseln"
+    },
+    {
+        "id": "42",
+        "name": "Dominika"
+    },
+    {
+        "id": "45",
+        "name": "El Salvador"
+    },
+    {
+        "id": "46",
+        "name": "Eritrea"
+    },
+    {
+        "id": "47",
+        "name": "Estonia"
+    },
+    {
+        "id": "162",
+        "name": "Eswatini"
+    },
+    {
+        "id": "11",
+        "name": "Ethiopia"
+    },
+    {
+        "id": "134",
+        "name": "Filipina"
+    },
+    {
+        "id": "52",
+        "name": "Gambia"
+    },
+    {
+        "id": "54",
+        "name": "Ghana"
+    },
+    {
+        "id": "266",
+        "name": "Gibraltar"
+    },
+    {
+        "id": "243",
+        "name": "Greenland"
+    },
+    {
+        "id": "251",
+        "name": "Guadeloupe"
+    },
+    {
+        "id": "58",
+        "name": "Guatemala"
+    },
+    {
+        "id": "59",
+        "name": "Guinea"
+    },
+    {
+        "id": "61",
+        "name": "Guyana"
+    },
+    {
+        "id": "252",
+        "name": "Guyana Perancis"
+    },
+    {
+        "id": "67",
+        "name": "India"
+    },
+    {
+        "id": "276",
+        "name": "India Britania"
+    },
+    {
+        "id": "189",
+        "name": "Inggris"
+    },
+    {
+        "id": "72",
+        "name": "Irlandia"
+    },
+    {
+        "id": "192",
+        "name": "Irlandia Utara"
+    },
+    {
+        "id": "73",
+        "name": "Islandia"
+    },
+    {
+        "id": "77",
+        "name": "Jepang"
+    },
+    {
+        "id": "40",
+        "name": "Jerman"
+    },
+    {
+        "id": "31",
+        "name": "Kamerun"
+    },
+    {
+        "id": "80",
+        "name": "Kanada"
+    },
+    {
+        "id": "82",
+        "name": "Kenya"
+    },
+    {
+        "id": "231",
+        "name": "Kepulauan Virgin Inggris"
+    },
+    {
+        "id": "246",
+        "name": "Kiribati"
+    },
+    {
+        "id": "83",
+        "name": "Kolombia"
+    },
+    {
+        "id": "86",
+        "name": "Korea Utara"
+    },
+    {
+        "id": "87",
+        "name": "Korea, South"
+    },
+    {
+        "id": "244",
+        "name": "Kosovo"
+    },
+    {
+        "id": "36",
+        "name": "Kosta Rika"
+    },
+    {
+        "id": "37",
+        "name": "Kroasia"
+    },
+    {
+        "id": "94",
+        "name": "Lebanon"
+    },
+    {
+        "id": "97",
+        "name": "Liechtenstein"
+    },
+    {
+        "id": "219",
+        "name": "Makau"
+    },
+    {
+        "id": "274",
+        "name": "Makedonia"
+    },
+    {
+        "id": "100",
+        "name": "Makedonia Utara"
+    },
+    {
+        "id": "104",
+        "name": "Maladewa"
+    },
+    {
+        "id": "105",
+        "name": "Mali"
+    },
+    {
+        "id": "106",
+        "name": "Malta"
+    },
+    {
+        "id": "207",
+        "name": "Martinik"
+    },
+    {
+        "id": "277",
+        "name": "Mayotte"
+    },
+    {
+        "id": "112",
+        "name": "Moldova"
+    },
+    {
+        "id": "113",
+        "name": "Monako"
+    },
+    {
+        "id": "114",
+        "name": "Mongolia"
+    },
+    {
+        "id": "216",
+        "name": "Montenegro"
+    },
+    {
+        "id": "115",
+        "name": "Mozambik"
+    },
+    {
+        "id": "117",
+        "name": "Namibia"
+    },
+    {
+        "id": "118",
+        "name": "Nauru"
+    },
+    {
+        "id": "119",
+        "name": "Nepal"
+    },
+    {
+        "id": "236",
+        "name": "Neukaledonien"
+    },
+    {
+        "id": "123",
+        "name": "Niger"
+    },
+    {
+        "id": "121",
+        "name": "Nikaragua"
+    },
+    {
+        "id": "261",
+        "name": "Niue"
+    },
+    {
+        "id": "268",
+        "name": "Northern Mariana Islands"
+    },
+    {
+        "id": "126",
+        "name": "Oman"
+    },
+    {
+        "id": "240",
+        "name": "Palestine"
+    },
+    {
+        "id": "130",
+        "name": "Panama"
+    },
+    {
+        "id": "38",
+        "name": "Pantai Gading"
+    },
+    {
+        "id": "132",
+        "name": "Paraguay"
+    },
+    {
+        "id": "133",
+        "name": "Peru"
+    },
+    {
+        "id": "135",
+        "name": "Polandia"
+    },
+    {
+        "id": "136",
+        "name": "Portugal"
+    },
+    {
+        "id": "50",
+        "name": "Prancis"
+    },
+    {
+        "id": "234",
+        "name": "Pulau Amerika Virgin"
+    },
+    {
+        "id": "69",
+        "name": "Pulau Solomon"
+    },
+    {
+        "id": "138",
+        "name": "Republik Afrika Tengah"
+    },
+    {
+        "id": "193",
+        "name": "Republik Kongo"
+    },
+    {
+        "id": "259",
+        "name": "Republik Rakyat Kongo"
+    },
+    {
+        "id": "249",
+        "name": "Réunion"
+    },
+    {
+        "id": "141",
+        "name": "Rusia"
+    },
+    {
+        "id": "139",
+        "name": "Rwanda"
+    },
+    {
+        "id": "263",
+        "name": "Saarland"
+    },
+    {
+        "id": "267",
+        "name": "Saint-Martin"
+    },
+    {
+        "id": "143",
+        "name": "Samoa"
+    },
+    {
+        "id": "144",
+        "name": "San Marino"
+    },
+    {
+        "id": "215",
+        "name": "Serbia"
+    },
+    {
+        "id": "151",
+        "name": "Seychelles"
+    },
+    {
+        "id": "152",
+        "name": "Sierra Leone"
+    },
+    {
+        "id": "265",
+        "name": "Sint Maarten"
+    },
+    {
+        "id": "190",
+        "name": "Skotlandia"
+    },
+    {
+        "id": "159",
+        "name": "South Africa"
+    },
+    {
+        "id": "157",
+        "name": "Spanyol"
+    },
+    {
+        "id": "230",
+        "name": "St. Lucia"
+    },
+    {
+        "id": "262",
+        "name": "Sudan Selatan"
+    },
+    {
+        "id": "273",
+        "name": "Swaziland"
+    },
+    {
+        "id": "148",
+        "name": "Swiss"
+    },
+    {
+        "id": "166",
+        "name": "Tanzania"
+    },
+    {
+        "id": "245",
+        "name": "Tibet"
+    },
+    {
+        "id": "242",
+        "name": "Timor-Leste"
+    },
+    {
+        "id": "169",
+        "name": "Tonga"
+    },
+    {
+        "id": "173",
+        "name": "Tunisia"
+    },
+    {
+        "id": "174",
+        "name": "Turki"
+    },
+    {
+        "id": "226",
+        "name": "Turks- dan Caicosinseln"
+    },
+    {
+        "id": "177",
+        "name": "Ukraina"
+    },
+    {
+        "id": "179",
+        "name": "Uruguay"
+    },
+    {
+        "id": "182",
+        "name": "Venezuela"
+    }
+]

@@ -1,10 +1,10 @@
-# TransferMrkt
+# transfermarkt
 
 Scrape top transfer and query fotball club in world
 
 ## Table of Contents
 
-- [TransferMrkt](#transfermrkt)
+- [transfermarkt](#transfermarkt)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
     - [For Node.js](#for-nodejs)
@@ -16,18 +16,18 @@ Scrape top transfer and query fotball club in world
 Install using:
 
 ```shell
-npm install transfermrkt --save
+npm install transfermarkt --save
 ```
 
 Get top transfer:
 
 ```javascript
-var { clubInfoFromCountry, topTransfer, findland } = require("transfermrkt");
+var { clubInfoFromCountry, topTransfer, findland } = require("transfermarkt");
 
 (async() => {
     const transfer = await topTransfer("brazil")
     console.log(transfer)
-})
+})()
 // ->
 [
   {
@@ -57,12 +57,12 @@ var { clubInfoFromCountry, topTransfer, findland } = require("transfermrkt");
 Get clubs by country:
 
 ```javascript
-var { clubInfoFromCountry, topTransfer, findland } = require("transfermrkt");
+var { clubInfoFromCountry, topTransfer, findland } = require("transfermarkt");
 
 (async() => {
     const clubs = await clubInfoFromCountry("indonesia")
     console.log(clubs)
-})
+})()
 // ->
 [
   {

@@ -1,6 +1,6 @@
 {
   "name": "transfermarkt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Scrape top transfer and query fotball club in world",
   "main": "index.js",
   "scripts": {

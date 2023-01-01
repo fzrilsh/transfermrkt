@@ -19,6 +19,10 @@ Install using:
 npm install transfermarkt --save
 ```
 
+### WARNING
+
+this module require nodejs ver ^18.11.0
+
 Get top transfer:
 
 ```javascript
